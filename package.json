@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "source":"src/index.html",
+  "source":"index.html",
   "homepage": "https://mohit081.github.io/password-manager",
   "scripts": {
     "predeploy":"npm run build-gh",
